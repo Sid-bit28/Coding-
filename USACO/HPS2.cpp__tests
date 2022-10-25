@@ -1,0 +1,8 @@
+[
+	{
+		"test": "5 1\nP\nP\nH\nP\nS"
+	},
+	{
+		"test": "5 3\nP\nP\nH\nP\nS\n"
+	}
+]

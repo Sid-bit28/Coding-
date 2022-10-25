@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"Divisible\nNot divisible"
+		],
+		"test": "\n2\n4 7\n17 5 -21 15\n4 5\n17 5 -21 15\n"
+	}
+]

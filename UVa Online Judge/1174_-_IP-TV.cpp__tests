@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"8"
+		],
+		"test": "\n2\n4\n5\nlisbon london 6\nlisbon paris 5\nlondon paris 1\nlondon berlin 2\nparis berlin 10\n4\n5\nlisbon london 6\nlisbon paris 5\nlondon paris 1\nlondon berlin 2\nparis berlin 10\n"
+	}
+]

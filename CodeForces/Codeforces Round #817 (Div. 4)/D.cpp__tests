@@ -1,0 +1,18 @@
+[
+	{
+		"correct_answers":
+		[
+			"3 5 5\n16 16 16 16 16\n0\n86 95 98 101 102 102 102 102 102 102 102 102\n29 38 45 52 57 62 65 68 69 70\n44 50 54 56 56 56 56 56 56"
+		],
+		"test": "6\n3\nLLR\n5\nLRRLL\n1\nL\n12\nLRRRLLLRLLRL\n10\nLLLLLRRRRR\n9\nLRLRLRLRL\n"
+	},
+	{
+		"test": "1\n2\nLR\n"
+	},
+	{
+		"test": "1\n2\nRL\n"
+	},
+	{
+		"test": "1\n4\nRRLL\n"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"Yes\nNo\nYes\nNo\nYes"
+		],
+		"test": "5\n4\nQQAA\n4\nQQAQ\n3\nQAA\n1\nQ\n14\nQAQQAQAAQQQAAA\n"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"Case #1: you can visit at most 3 cities.\nCase #2: you can visit at most 2 cities."
+		],
+		"test": "\nabcd\nacdb\nabcd\ndacb\n#\n"
+	}
+]

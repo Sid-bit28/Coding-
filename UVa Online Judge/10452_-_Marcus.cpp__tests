@@ -1,0 +1,12 @@
+[
+	{
+		"correct_answers":
+		[
+			"forth forth right right forth forth forth\nright forth forth left forth forth right"
+		],
+		"test": "\n2\n6 5\nPST#T\nBTJAS\nTYCVM\nYEHOF\nXIBKU\nN@RJB\n5 4\nJA#X\nJVBN\nXOHD\nDQEM\nT@IY\n"
+	},
+	{
+		"test": "1\n6 5\nPST#T\nBTJAS\nTYCVM\nYZHOF\nXIEKU\nI@IJB\n"
+	}
+]
