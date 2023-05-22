@@ -1,0 +1,15 @@
+[
+	{
+		"correct_answers":
+		[
+			"5\n0\n1\n3\n2"
+		],
+		"test": "5\n11 2\naAaaBACacbE\n2 2\nab\n4 1\naaBB\n6 0\nabBAcC\n5 3\ncbccb\n"
+	},
+	{
+		"test": "1\n7 7\nCDbCdDA\n"
+	},
+	{
+		"test": "2\n5 1\nAAAAA\n1 0\na\n"
+	}
+]

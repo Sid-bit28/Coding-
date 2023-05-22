@@ -1,0 +1,51 @@
+[
+	{
+		"correct_answers":
+		[
+			"acb\naacc\nabbcb\naaab"
+		],
+		"test": "4\n3\ncba\n4\nacac\n5\nabbcb\n4\naaba\n"
+	},
+	{
+		"test": "4\n5\naabcd\n3\naba\n4\nbbcb\n6\naaaaba\n"
+	},
+	{
+		"test": "1\n4\nabaa\n"
+	},
+	{
+		"test": "1\n7\naaabcad\n"
+	},
+	{
+		"test": "1\n1\na\n"
+	},
+	{
+		"test": "1\n5\nbbcda\n"
+	},
+	{
+		"test": "1\n5\nbbdac\n"
+	},
+	{
+		"test": "1\n4\nbbcb\n"
+	},
+	{
+		"test": "1\n4\nddbd\n"
+	},
+	{
+		"test": "1\n2\nab\n"
+	},
+	{
+		"test": "1\n2\nba\n"
+	},
+	{
+		"test": "1\n3\nbba\n"
+	},
+	{
+		"test": "1\n3\nbab\n"
+	},
+	{
+		"test": "1\n6\nccbbbd\n"
+	},
+	{
+		"test": "1\n6\nccbcbd\n"
+	}
+]
